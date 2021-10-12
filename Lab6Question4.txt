@@ -1,0 +1,4 @@
+. What is the advantage and disadvantage of Sorting and BinarySearch over 
+BinarySearchTree and heaps data structures.
+
+- Searching is fast, sorting is slow.

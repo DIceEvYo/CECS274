@@ -1,0 +1,8 @@
+Advantages and Disadvantages of Hash Tables over Array Lists and Linked Lists
+
+For adding, finding, and removing elements, CHTs have O(thash(Key)) time which is similar to O(1) time
+ while for ArrayLists adding, deleting, and finding elements runs at O(n) time, while Linked Lists run O(n) on
+find but O(1) for adding and removing, making CHT almost more advantageous at adding, finding, and removing 
+elements than both arraylists and linked lists. The reason I state almost though, is because the time complexity
+is still somewhat dependent on the hash function, and depending on the complexity of the hash, the time could
+change.

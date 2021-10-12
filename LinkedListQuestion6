@@ -1,0 +1,8 @@
+What is the advantage and disadvantage of Linked List compared with Array-Based datastructures?
+
+For Linked Lists, Inserting and deleting elements meet a Big O time of O(1) which gives it a greater advantage over Arrays which would take O(n) time to serve such a function.
+
+Trying to access elements for Linked Lists however, meet a Big O time of O(n) which ArrayLists can accomplish much more smoothly with an BigO time of O(1)
+
+In a way picking between Linked Lists and Arrays are the same as deciding between which Data Structure would be better suited for a specific task:
+    What's more important? Inserting or deleting elements, or trying to access them?
