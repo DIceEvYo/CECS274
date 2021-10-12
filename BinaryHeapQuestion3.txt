@@ -1,0 +1,3 @@
+ What is the advantage and disadvantage of BinaryHeap over BinarySearchTree data struc-tures
+
+Heaps take less time than BSTs at the cost of having a less structured order compared to BSTs. 

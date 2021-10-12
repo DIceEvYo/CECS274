@@ -1,0 +1,7 @@
+What is the advantage and disadvantage of BinarySearchTree over HashTable data struc-tures?
+
+Hash tables, when it comes to time complexity, mostly takes less time than Binary Search Trees.
+
+One advantage Binary Search Trees have over Hash Tables, however, is that Binary Search Trees have an order,
+making it easier to access specific information. Also, Binary Search Trees compared to Hashtables, are more
+customizable.
